@@ -1,0 +1,2 @@
+export DJANGO_SETTING_MODULE=django_assignments.settings
+python manage.py shell
